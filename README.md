@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Ninel31297/Ninel31297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nina Galimullina 
 
-Here are some ideas to get you started:
+## Будущий Data Scientist 🔭
+Обладаю практическими знаниями в области очистки, исследования и анализа данных, постановки и проверки гипотез, визуализации и презентации исследования клиенту.
+### Исследование и визуализация ✏
+Python (Pandas, Seaborn, Plotly, SciPy, Numpy, Matplotlib), SQL (на уровне оконных функций)
+### Презентация и дашборды 📊
+Jupyter Notebook, MS Ofiice, Google Slides, Tableau
+### Языки 💬
+English B2, Korean B1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Контакты 📫
+[▫ LinkedIn](https://www.linkedin.com/in/nina-galimullina-0aa999236/) 
+[▫ Telegram](https://t.me/Ninel_31297)
