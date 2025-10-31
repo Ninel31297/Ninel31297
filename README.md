@@ -8,8 +8,6 @@
 Python (Pandas, Seaborn, Plotly, SciPy, Numpy, Matplotlib), SQL (на уровне оконных функций)
 ### Презентация и дашборды 📊
 Jupyter Notebook, MS Ofiice, Google Slides, Tableau
-### Языки 💬
-English B2, Korean B1
 
 
 ### Контакты 📫
