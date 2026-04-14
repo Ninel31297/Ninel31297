@@ -18,17 +18,30 @@ OpenAI API · OpenRouter API · Async Python · Telegram Bots
 
 ## 🚀 Projects
 
+Here’s a cleaner version with consistent emojis and slightly improved GitHub-style presentation:
+
+---
+
 ### 📚 RAG Recipe Chatbot
+
 Conversational retrieval system using embeddings and FAISS.
 
-### 📄 AI Resume Analyzer (Private Project)
-LLM-based resume evaluation system (not publicly available)
-
-### 🔎 RAG Document Search (Private Project)
-Enterprise semantic search system (confidential implementation)
-
 ### 🧬 Medical Spell Checker (Thesis)
+
 NLP system for domain-specific spelling correction.
+
+### 📰 News Classification Bot
+
+Telegram bot using an n-gram language model and Random Forest classifier to predict news categories.
+
+### 📄 AI Resume Analyzer (Private Project) 🔒
+
+LLM-based resume evaluation system (not publicly available).
+
+### 🔎 RAG Document Search (Private Project) 🔐
+
+Enterprise semantic search system (confidential implementation).
+
 
 ---
 
