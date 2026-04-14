@@ -21,11 +21,11 @@ OpenAI API · OpenRouter API · Async Python · Telegram Bots
 ### 📚 RAG Recipe Chatbot
 Conversational retrieval system using embeddings and FAISS.
 
-### 📄 AI Resume Analyzer
-LLM-based resume evaluation and feedback system.
+### 📄 AI Resume Analyzer (Private Project)
+LLM-based resume evaluation system (not publicly available)
 
-### 🔎 RAG Document Search
-Semantic search system for enterprise documents.
+### 🔎 RAG Document Search (Private Project)
+Enterprise semantic search system (confidential implementation)
 
 ### 🧬 Medical Spell Checker (Thesis)
 NLP system for domain-specific spelling correction.
