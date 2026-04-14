@@ -25,6 +25,7 @@ Elasticsearch · SQL · Oracle Database · DBeaver · Tableau · GitHub · Confl
 
 ### APIs & Deployment
 OpenRouter API · OpenAI API · Async Python · Telegram Bots
+
 ---
 
 ## 🚀 Projects
