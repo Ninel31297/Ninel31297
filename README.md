@@ -2,7 +2,7 @@
 
 # Nina Strickland
 
-🧠 NLP Engineer | Machine Learning | LLM Evaluation | Python, RAG, LLM Evaluation | Data Annotation & AI Training
+🧠 NLP Engineer | Machine Learning | LLM Evaluation | Python, RAG, Vector Embeddings, LangChain | Data Annotation & AI Training | SQL, Tableu
 
 ---
 ## 🛠 Skills
