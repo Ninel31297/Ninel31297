@@ -18,10 +18,6 @@ OpenAI API · OpenRouter API · Async Python · Telegram Bots
 
 ## 🚀 Projects
 
-Here’s a cleaner version with consistent emojis and slightly improved GitHub-style presentation:
-
----
-
 ### 📚 RAG Recipe Chatbot
 
 Conversational retrieval system using embeddings and FAISS.
@@ -41,7 +37,6 @@ LLM-based resume evaluation system (not publicly available).
 ### 🔎 RAG Document Search (Private Project) 🔐
 
 Enterprise semantic search system (confidential implementation).
-
 
 ---
 
